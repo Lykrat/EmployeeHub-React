@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { API_LOGIN } from '../../config.js';
-import '../Css/loggedIn.css';
+import '../Css/LoggedIn.css';
 
 import MyLeaveView from './MyLeaveView';
 import ApplyLeaveView from './ApplyLeaveView';
